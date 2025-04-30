@@ -72,7 +72,7 @@ This geographical heat map shows the countries where CVD and Neoplasms are killi
 ## Interactive Dashboards
 
 Explore the full dashboards and interactive charts here:
-[My Tableau Public Profile](https://public.tableau.com/app/profile/jovan.rai)
+[Interactive Dashboard]([https://public.tableau.com/app/profile/jovan.rai](https://public.tableau.com/app/profile/jovan.rai/viz/WorldDeaths_17460444743030/Dashboard1))
 
 ---
 
