@@ -1,4 +1,4 @@
-# 🌍 Global Mortality Trends: Causes of Death Over Time
+# Global Mortality Trends: Causes of Death Over Time
 
 > A data storytelling project analyzing global death causes using SQL and Tableau.
 
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project explores patterns in global mortality using the *Our World in Data - Causes of Death* dataset. Using SQL to clean and restructure the dataset, and Tableau to visualize mortality trends, I aimed to uncover how the leading causes of death have evolved over time across different regions.
+This project explores patterns in global mortality using the *Our World in Data - Causes of Death* dataset (https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?select=20220327+annual-number-of-deaths-by-cause.csv). Using SQL to clean and restructure the dataset, and Tableau to visualize mortality trends, I aimed to uncover how the leading causes of death have evolved over time across different regions.
 
 ---
 
