@@ -72,11 +72,11 @@ This geographical heat map shows the countries where CVD and Neoplasms are killi
 ## Interactive Dashboards
 
 Explore the full dashboards and interactive charts here:
-🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/YOUR_PROFILE)
+[My Tableau Public Profile](https://public.tableau.com/app/profile/YOUR_PROFILE)
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Chronic diseases** (e.g., cardiovascular, cancer) are the top killers globally, and are most prevelent in the United States of America and China.
 - **Infectious diseases** have declined sharply since the early 2000s, likely due to the emphasis on modern medicine.
@@ -85,7 +85,7 @@ Explore the full dashboards and interactive charts here:
 
 ---
 
-## 🧠 Applications & Next Steps
+## Applications & Next Steps
 
 - **Public health policy** can use these trends to reallocate funding and focus on chronic disease prevention.
 - **Further research** could normalize the data by population to calculate per-capita mortality rates.
