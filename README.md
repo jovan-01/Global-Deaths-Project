@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores patterns in global mortality using the *Our World in Data - Causes of Death* dataset. Using SQL to clean and restructure the dataset, and Tableau to visualize mortality trends, I aimed to uncover how the leading causes of death have evolved over time across different regions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify leading causes of death globally and by region
 - Group causes into categories: infectious, behavioral, and chronic
@@ -19,7 +19,7 @@ This project explores patterns in global mortality using the *Our World in Data 
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 - **SQL (MySQL Workbench)** – data cleaning, transformation, normalization
 - **Tableau Public** – dashboard design and storytelling
@@ -29,7 +29,7 @@ This project explores patterns in global mortality using the *Our World in Data 
 
 --
 
-## 🧹 Data Cleaning & Transformation (SQL)
+## Data Cleaning & Transformation (SQL)
 
 I began by importing and preparing the data using MySQL. Key transformations included:
 
@@ -43,7 +43,7 @@ Explore the code:
 
 ---
 
-## 📊 Data Visualization & Insights
+## Data Visualization & Insights
 
 ### 1. Global Mortality by Cause Category
 
@@ -69,7 +69,7 @@ This geographical heat map shows the countries where CVD and Neoplasms are killi
 
 ---
 
-## 📈 Interactive Dashboards
+## Interactive Dashboards
 
 Explore the full dashboards and interactive charts here:
 🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/YOUR_PROFILE)
